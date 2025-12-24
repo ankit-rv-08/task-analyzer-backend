@@ -1,5 +1,5 @@
 
-# Task Priority Assistant [![Tests](https://github.com/ankit-rv-08/task-analyzer-backend/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ankit-rv-08/task-analyzer-backend/actions) [![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)](https://github.com/ankit-rv-08/task-analyzer-backend)
+# Task Priority Assistant [![Tests](https://github.com/ankit-rv-08/task-analyzer-backend/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ankit-rv-08/task-analyzer-backend/actions) [![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)]([https://github.com/ankit-rv-08/task-analyzer-backend](https://vercel.com/new/ankit-rv-08s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=task-analyzer-backend-8akv-ajctp8a8q-ankit-rv-08s-projects.vercel.app&projectName=task-analyzer-backend-8akv&s=https%3A%2F%2Fgithub.com%2Fankit-rv-08%2Ftask-analyzer-backend&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=ole2CqFRUDbEvFrF_0_-g))
 
 **Production Django REST API** for intelligent task prioritization. Scores tasks by urgency, importance, effort, and dependencies. **85% test coverage**. Docker-ready. Live demo: [frontend](frontend/)
 
