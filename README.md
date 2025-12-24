@@ -1,5 +1,5 @@
 
-# Task Priority Assistant [![Tests](https://github.com/ankit-rv-08/task-analyzer-backend/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ankit-rv-08/task-analyzer-backend/actions) [![Live Demo][![Live Demo](https://img.shields.io/badge/Live_Demo-🔥-000000?style=flat&logo=vercel)](https://task-analyzer-backend-8akv.vercel.app/)
+# Task Priority Assistant [![Tests](https://github.com/ankit-rv-08/task-analyzer-backend/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ankit-rv-08/task-analyzer-backend/actions) [![Live Demo](https://img.shields.io/badge/Live_Demo-🔥-000000?style=flat&logo=vercel)](https://task-analyzer-backend-8akv.vercel.app/)
 
 ![Demo Screenshot](screenshot.png)
 
